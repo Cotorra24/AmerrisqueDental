@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="100%" height="100%" fill="#fef2f2" />
+  <g fill="#7f1d1d" font-family="Arial, Helvetica, sans-serif">
+    <rect x="24" y="24" width="112" height="112" rx="14" fill="#fff" stroke="#fecaca" />
+    <text x="160" y="100" font-size="20" fill="#7f1d1d">Prótesis</text>
+    <text x="160" y="130" font-size="14" fill="#7f1d1d">Rehabilitación</text>
+  </g>
+</svg>

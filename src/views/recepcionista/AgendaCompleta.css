@@ -1,0 +1,8 @@
+.ag-wrapper { padding: 1rem; }
+.ag-header { display:flex; align-items:center; gap:1rem; }
+.ag-lista { margin-top:1rem; display:flex; flex-direction:column; gap:0.6rem; }
+.ag-item { display:flex; justify-content:space-between; align-items:center; padding:0.6rem; border:1px solid #e5e7eb; border-radius:8px; background:white }
+.ag-left { display:flex; flex-direction:column }
+.ag-nombre { font-weight:600 }
+.ag-detalle { font-size:0.9rem; color:#6b7280 }
+.ag-actions { display:flex; gap:0.5rem }
